@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/waveiron/biao-typing.git"
+    "url": "https://github.com/biaoyansu/template-webpack-typescript"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/waveiron/biao-typing#readme",
+  "homepage": "https://github.com/biaoyansu/template-webpack-typescript",
   "devDependencies": {
     "clean-webpack-plugin": "^1.0.1",
     "css-loader": "^2.1.0",
